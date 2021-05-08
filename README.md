@@ -1,5 +1,5 @@
 # Lab works from the HSE course "Architecture of computing systems".
-### Lab1.
+### Lab1
 Enter text from a file containing several hundred characters. Display the histogram, i.e. frequency of occurrence of letters of the alphabet. Provide the ability to scroll through the histogram using PageUp, PageDone or up-down arrows.
 
 ![Image alt](https://github.com/dsawfer/Assembler-labs/blob/main/labs/images/lab1_1.png)
