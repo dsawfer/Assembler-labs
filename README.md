@@ -1,2 +1,2 @@
 # Assembler-labs
-lab1 - 
+Lab works from the HSE course "Architecture of computing systems"
